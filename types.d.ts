@@ -144,8 +144,8 @@ export interface AceEditorProps {
     enableBasicAutocompletion?: boolean
     enableLiveAutocompletion?: boolean
     tabSize?: number
-    value?: string
-    defaultValue?: string
+//     value?: string
+//     defaultValue?: string
     scrollMargin?: number[]
     onLoad?: (editor: EditorProps) => void
     onBeforeLoad?: (ace: any) => void
